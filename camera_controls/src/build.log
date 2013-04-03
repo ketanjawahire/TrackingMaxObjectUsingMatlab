@@ -1,0 +1,195 @@
+Compiler version: 4.9 (R2008b)  
+mcc -W 'dotnet:camera_controls,Camera_controls,0.0,private' -d 'C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src' -T 'link:lib' -v 'class{Camera_controls:C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\stop_camera.m,C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\preview_cam.m,C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\start_camera.m}'  
+Warning: Name is nonexistent or not a directory: 
+C:\Matlab7.7\toolbox\compiler\patch.  
+Warning: Name is nonexistent or not a directory: 
+C:\Matlab7.7\toolbox\compiler\patch.  
+Processing C:\Matlab7.7\toolbox\imaq\mcc.enc 
+Processing C:\Matlab7.7\toolbox\matlab\mcc.enc 
+Processing C:\Matlab7.7\toolbox\control\mcc.enc 
+Processing C:\Matlab7.7\toolbox\shared\imageslib\mcc.enc 
+Processing C:\Matlab7.7\toolbox\shared\controllib\mcc.enc 
+Processing C:\Matlab7.7\toolbox\images\mcc.enc 
+Processing C:\Matlab7.7\toolbox\signal\mcc.enc 
+Processing C:\Matlab7.7\toolbox\ident\mcc.enc 
+Processing C:\Matlab7.7\toolbox\finance\mcc.enc 
+Processing include files... 
+2 item(s) added. 
+Processing directories installed with MCR... 
+The file C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\mccExcludedFiles.log contains a list of functions excluded from the CTF archive. 
+11 item(s) added. 
+Generating MATLAB path for the compiled application... 
+Created 64 path items. 
+Begin validation of MEX files: Sun Apr 08 00:30:13 2012  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\bdschur.mexw32'.  
+Found M-file 'C:\Matlab7.7\toolbox\control\ctrlutil\bdschur.m'.  
+MEX file  
+    'C:\Matlab7.7\toolbox\control\ctrlutil\bdschur.mexw32'  
+ is valid. It contains 'mexFunction.'  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\ddaeresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\ddaesim.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\frdelay.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\frkernel.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\hlyapslv.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\lyapslv.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\matscale.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\mimozero.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\normrank.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\quadgp1.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\quadgp2.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\ssfresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\ssresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\sssim.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\sylvslv.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\tfresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\tfsim.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\triperm.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\zpkboderesp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\zpkfresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\zpkresp.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\control\ctrlutil\zpksim.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\ident\nlident\@linear\soevaluate.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\ident\nlident\@wavenet\soevaluate.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\images\private\imlincombc.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\images\private\immultmex.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\images\private\intlutc.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\images\private\parityscan.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptformats\private\bitparse.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptformats\private\dicom_decode_rle_segment.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptformats\private\dicomlookup_helper.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptformats\private\dicomparse.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptformats\private\tobits.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\images\iptutils\iptcheckinput.mexw32'.  
+Found M-file 'C:\Matlab7.7\toolbox\images\iptutils\iptcheckinput.m'.  
+MEX file  
+    'C:\Matlab7.7\toolbox\images\iptutils\iptcheckinput.mexw32'  
+ is valid. It contains 'mexFunction.'  
+Validating 'C:\Matlab7.7\toolbox\images\iptutils\private\iptregistry.mexw32'.  
+Found M-file 'C:\Matlab7.7\toolbox\images\iptutils\private\iptregistry.m'.  
+MEX file  
+    'C:\Matlab7.7\toolbox\images\iptutils\private\iptregistry.mexw32'  
+ is valid. It contains 'mexFunction.'  
+Validating 'C:\Matlab7.7\toolbox\imaq\imaq\imaqmex.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\imaq\imaq\private\mexdxver.mexw32'.  
+No conflicting M-file found.  
+Validating 'C:\Matlab7.7\toolbox\signal\signal\private\upfirdnmex.mexw32'.  
+No conflicting M-file found.  
+End validation of MEX files: Sun Apr 08 00:30:13 2012  
+Warning: Name is nonexistent or not a directory: 
+C:\Matlab7.7\toolbox\compiler\patch.  
+Deleting 61 temporary MEX authorization files.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_79_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_20519_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_12152_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_16038_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_31914_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_26398_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_17587_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_30163_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_25288_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_16669_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_1008_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_31153_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_5810_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_23060_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_16687_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_14030_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_22801_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_7450_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_29688_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_23585_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_7245_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_29956_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_21918_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_4160_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_13557_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_19254_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_13509_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_1748_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_26978_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_26809_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_8738_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_2634_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_9367_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_28046_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_23170_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_19916_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_20588_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_21058_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_4622_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_7024_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_6892_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_10179_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_1229_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_12975_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_11003_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_2418_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_28778_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_27416_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_2108_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_30073_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_23352_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_28485_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_14897_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_32607_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_19571_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_9231_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_25252_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_4314_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_22985_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_4094_3320.auth'.  
+Removing: 'C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\mathworks_tmp_3320_22342_3320.auth'.  
+Parsing file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\stop_camera.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\preview_cam.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\start_camera.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Matlab7.7\toolbox\compiler\deploy\deployprint.m" 
+	(Referenced from: "Compiler Command Line").  
+Parsing file "C:\Matlab7.7\toolbox\compiler\deploy\printdlg.m" 
+	(Referenced from: "Compiler Command Line").  
+Generating file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\Camera_controls.cs".  
+Generating file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\Camera_controlsNative.cs".  
+Generating file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\readme.txt".  
+Generating file "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\dotnet_mcc_component_data.cs".  
+Executing command: C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\csc.exe /nologo /optimize /doc:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controls.xml" /t:library /r:"C:\Matlab7.7\toolbox\dotnetbuilder\bin\win32\v2.0\MWArray.dll" /resource:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controls.ctf" /out:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controls.dll" "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\Camera_controls.cs" "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\dotnet_mcc_component_data.cs"  
+Executing command: C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\csc.exe /nologo /optimize /doc:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controlsNative.xml" /t:library /r:"C:\Matlab7.7\toolbox\dotnetbuilder\bin\win32\v2.0\MWArray.dll" /resource:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controls.ctf" /out:"C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\camera_controlsNative.dll" "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\Camera_controlsNative.cs" "C:\Documents and Settings\Administrator\My Documents\MATLAB\my code\final code for tracking max object from live video\camera_controls\src\dotnet_mcc_component_data.cs"  
+Warning: Duplicate directory name: C:\Documents and Settings\Administrator\My 
+Documents\MATLAB\my code\final code for tracking max object from live video.  
+Warning: Duplicate directory name: C:\Documents and Settings\Administrator\My 
+Documents\MATLAB\my code\final code for tracking max object from live video.  
